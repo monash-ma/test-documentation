@@ -1,4 +1,4 @@
-# Hello World!
+# Moodle Technical Documentation
 
 # Table of Contents
 1. [Example](#example)
