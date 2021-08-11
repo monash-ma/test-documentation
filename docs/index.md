@@ -1,1 +1,7 @@
 # Hello World!
+
+site_name: MkLorum
+site_url: https://example.com/
+nav:
+    - Home: index.md
+    - About: about.md
