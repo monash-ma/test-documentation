@@ -1,5 +1,11 @@
 # Moodle Technical Documentation
 
+# Introduction
+This section provides an overview of the Moodle Technical Documentation at Monash University Malaysia.
+
+# About
+Thhe document was created to give Moodle users a through understanding of how we built the overhauled Moodle Template in Moodle. This document is aimned at site maintainers for the Moodle Template and relevant departments involved in the Moodle Template overhaul. Some useful background information that will be beneficial to the reader includes but not limited to basic web development and problem solving. 
+
 # Table of Contents
 1. [Example](#example)
 2. [Example2](#example2)
