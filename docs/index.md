@@ -15,9 +15,29 @@ The document was created to give Moodle users a through understanding of how we 
     - [Repository](#sos-repo)  
     - [Naming Conventions]
     - [Best Practices] 
-3. [Teaching & Learning Portal](#Teaching & Learning Portal)
+3. [Teaching & Learning Portal](#t&l)
 4. [FAQ](#FAQ)
 
 ## School of Business <a name="sob"></a>
 
 ### Repository <a name="sob-repo"></a>
+Located [here](https://github.com/MUM-MIH/moodle-template)
+
+### Naming Conventions 
+
+### Best Practices
+
+---
+
+## School of Science 
+
+### Repository
+
+### Naming Conventions
+
+### Best Practices
+
+---
+
+## Teaching & Learning Portal <a name="t&l"></a>
+
