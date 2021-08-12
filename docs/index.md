@@ -11,7 +11,7 @@ The document was created to give Moodle users a through understanding of how we 
     1. [Repository](#sob-repo) 
     2. [Naming Conventions](#sob-nc)
     3. [Best Practices](#sob-bp)
-2. [School of Science](#School of Science)
+2. [School of Science](#sos)
     - [Repository](#sos-repo)  
     - [Naming Conventions]
     - [Best Practices] 
@@ -29,7 +29,7 @@ Located [here](https://github.com/MUM-MIH/moodle-template)
 
 ---
 
-## School of Science 
+## School of Science <a name="#sos"></a>
 
 ### Repository
 
