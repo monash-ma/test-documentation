@@ -22,14 +22,15 @@ The moodle-template repository is the main template used by the following school
 - School of Business
 - School of Science
 
-The moodle template works by editing the HTML code manually inside the settings of the Moodle page. The repository for the codes used by the schools mentioned above are located [here].(https://github.com/MUM-MIH/moodle-template)
+The moodle template works by editing the HTML code manually inside the settings of the Moodle page. The repository for the codes used by the schools mentioned above are located [here](https://github.com/MUM-MIH/moodle-template).
 
 ### Requirements <a name="moodle-template-req"></a>
 ```
 Language: HTML, Javascript, CSS
 ```
 
-### Usage <a name="moodle-template-use></a>
+### Usage <a name="moodle-template-use"></a>
+
 ### Naming Conventions 
 
 ### Best Practices
