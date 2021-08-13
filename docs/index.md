@@ -15,8 +15,7 @@ The document was created to give Moodle users a through understanding of how we 
     2. [Requirements](#moodle-template-req)
     3. [Usage](#moodle-template-use)
     4. [Best Practices](#moodle-template-bp)
-2. [Teaching & Learning Portal](#t&l)
-3. [FAQ](#faq)
+2. [FAQ](#faq)
 
 ### Moodle Template <a name="moodle-template"></a>
 
@@ -105,10 +104,6 @@ A few examples:
 It is up to the developer to best decide how files are named to ensure uniformity.
 
 ---
-
-### Teaching & Learning Portal <a name="t&l"></a>
-
-TBA
 
 ### FAQ <a name="faq"></a>
 
