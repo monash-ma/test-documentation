@@ -43,7 +43,7 @@ To edit the HTML code,
 - Toggle the button _Turn Editing On_ located on the top right corner of the page.
 - Hover the cursor the section you want to edit.
 - Click on the *Edit* button dropdown menu.
-- Click *Edit Settings* to begin editing.
+- Click :gear: Edit Settings to begin editing.
 
 A basic guide to matching filenames to the function of the Moodle Template:
 
@@ -112,18 +112,19 @@ TBA
 
 ### FAQ <a name="faq"></a>
 
-1. During editing, the accordion object disappears even though I didn’t modify it. What should I do?
+During editing, the accordion object disappears even though I didn’t modify it. What should I do?
 
 > Once you have completed your own edits, turn edit mode off and refresh the page OR click on the Overview tab again. The accordion should reappear. This is a known bug that is still currently under investigation.
 
-2.During editing, the accordion object is not working (does not hide/collapse content).
+During editing, the accordion object is not working (does not hide/collapse content).
 
 > If you have not modified the accordion object, this is normal. Once you turn editing off, the element will function normally. This is a known visual bug and is also currently under investigation. If you have modified it, try turning editing off and refreshing the page. If the issue persists, duplicate a new accordion element from ‘Design Resources’ and try again.
 
-3.Can I customise the grid thumbnails on the Overview page?
+Can I customise the grid thumbnails on the Overview page?
 > *No*. The thumbnails were designed with the overall look and feel in mind. Please do not add your own icons to the grid as this may impede future efforts to troubleshoot errors or make updates.
 
-4.Can I add new sections to my Moodle site?
+Can I add new sections to my Moodle site?
 > *No*. Please try to work with the sections that the template provides. For the most part, you should try to make sure all resources are located within the relevant weekly sections. Any additional resources that do not fit logically into a weekly page may be placed in the Study Resources section. If you feel that your unit requires an additional section, please contact us for further support.
 
-5.How do I check if the editor is Atto?
+How do I check if the editor is Atto?
+> Profile > Preferences > Editor Preferences > Text Editor > Atto HTML Editor
