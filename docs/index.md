@@ -16,7 +16,7 @@ The document was created to give Moodle users a through understanding of how we 
     3. [Usage](#moodle-template-use)
     4. [Best Practices](#moodle-template-bp)
 2. [Teaching & Learning Portal](#t&l)
-3. [FAQ](#FAQ)
+3. [FAQ](#faq)
 
 ### Moodle Template <a name="moodle-template"></a>
 
@@ -43,7 +43,7 @@ To edit the HTML code,
 - Toggle the button _Turn Editing On_ located on the top right corner of the page.
 - Hover the cursor the section you want to edit.
 - Click on the *Edit* button dropdown menu.
-- Click :gear: Edit Settings to begin editing.
+- Click *Edit Settings* to begin editing.
 
 A basic guide to matching filenames to the function of the Moodle Template:
 
@@ -69,7 +69,7 @@ Please ensure that the editor preference in the Moodle settings is set to the At
 
 ##### Hidden Block
 
-There is a _hidden block_ located in the right hand side of the Moodle page. This block controls all the Javascript functionality in the page. By editing this block, all Javascript functionality will stop working. 
+There is a _hidden block_ located in the right hand side of the Moodle page. This block controls all the Javascript functionality in the page. By editing this block, all Javascript functionality will stop working.
 
 However, in an event there is a need to edit this block. The following steps need to be performed:
 
@@ -107,3 +107,23 @@ It is up to the developer to best decide how files are named to ensure uniformit
 ---
 
 ### Teaching & Learning Portal <a name="t&l"></a>
+
+TBA
+
+### FAQ <a name="faq"></a>
+
+1. During editing, the accordion object disappears even though I didn’t modify it. What should I do?
+
+> Once you have completed your own edits, turn edit mode off and refresh the page OR click on the Overview tab again. The accordion should reappear. This is a known bug that is still currently under investigation.
+
+2.During editing, the accordion object is not working (does not hide/collapse content).
+
+> If you have not modified the accordion object, this is normal. Once you turn editing off, the element will function normally. This is a known visual bug and is also currently under investigation. If you have modified it, try turning editing off and refreshing the page. If the issue persists, duplicate a new accordion element from ‘Design Resources’ and try again.
+
+3.Can I customise the grid thumbnails on the Overview page?
+> *No*. The thumbnails were designed with the overall look and feel in mind. Please do not add your own icons to the grid as this may impede future efforts to troubleshoot errors or make updates.
+
+4.Can I add new sections to my Moodle site?
+> *No*. Please try to work with the sections that the template provides. For the most part, you should try to make sure all resources are located within the relevant weekly sections. Any additional resources that do not fit logically into a weekly page may be placed in the Study Resources section. If you feel that your unit requires an additional section, please contact us for further support.
+
+5.How do I check if the editor is Atto?
