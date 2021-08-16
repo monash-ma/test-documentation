@@ -68,7 +68,9 @@ Please ensure that the editor preference in the Moodle settings is set to the At
 
 ##### Hidden Block
 
-There is a _hidden block_ located in the right hand side of the Moodle page. This block controls all the Javascript functionality in the page. By editing this block, all Javascript functionality will stop working.
+There is a _hidden block_ located in the *right hand side* of the Moodle page. This block imports all the Javascript and external css in the page. The reason it was put inside there was because it styles various other elements located inside the Moodle page that is not styled by the menu bar as it opens in a new window. By editing this block, all Javascript and external css functionality will stop working. As show below,
+
+![Hidden Block](./images/hidden-block.png)
 
 However, in an event there is a need to edit this block. The following steps need to be performed:
 
@@ -91,6 +93,8 @@ However, in an event there is a need to edit this block. The following steps nee
 6. Select that class in the Elements tab, look for the *display* element, it will be *none*.
 7. Change the field from *none* to *block*.
 8. The hidden block can now be edited.
+
+For future use, additional Javascript or CSS functionality can be imported using this hidden block.
 
 ##### Naming Conventions
 
@@ -123,3 +127,5 @@ Can I add new sections to my Moodle site?
 
 How do I check if the editor is Atto?
 > Profile > Preferences > Editor Preferences > Text Editor > Atto HTML Editor
+
+For general use documentation, [here](https://docs.google.com/document/d/1xCYBLaIQ1SoJvOyR2d0SbF7NnJp11v2-JprKenIHDi4/edit).
